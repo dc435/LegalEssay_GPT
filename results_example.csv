@@ -1,0 +1,17 @@
+packet,author,type,topic,pseudonym,knowUnder,critAnaly,argStruct,median,grade,comment
+1,gpt-4,accordion,topic1,essay1,1,2,3,2,2,a comment
+1,student,H2B,topic1,essay2,1,2,3,2,2,a comment
+1,gpt-4,accordion,topic2,essay3,1,2,3,2,2,a comment
+1,student,H2A,topic2,essay4,1,2,3,2,2,a comment
+2,gpt-4,recursive,topic1,essay5,1,2,3,2,2,a comment
+2,student,H2A,topic1,essay6,1,2,3,2,2,a comment
+2,gpt-4,recursive,topic2,essay7,1,2,3,2,2,a comment
+2,student,H2B,topic2,essay8,1,2,3,2,2,a comment
+3,student,H2A,topic1,essay9,1,2,3,2,2,a comment
+3,gpt-4,accordion,topic1,essay10,1,2,3,2,2,a comment
+3,gpt-4,accordion,topic2,essay11,1,2,3,2,2,a comment
+3,student,H2B,topic2,essay12,1,2,3,2,2,a comment
+4,gpt-4,recursive,topic1,essay13,1,2,3,2,2,a comment
+4,student,H2B,topic1,essay14,1,2,3,2,2,a comment
+4,student,H2A,topic2,essay15,1,2,3,2,2,a comment
+4,gpt-4,recursive,topic2,essay16,1,2,3,2,2,a comment
