@@ -7,3 +7,5 @@ Details of the desired essay, such as the essay structure, topic, thesis and wri
 The production of the essays is achieved in *main.ipynb* notebook. An OpenAI API key is required to access the model.
 
 The results analysis from the original thesis can be reproduced using the tools in the *results.ipynb* notebook.
+
+This code was produced and is publised for the purposes of academic research only.
